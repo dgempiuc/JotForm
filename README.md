@@ -1,7 +1,7 @@
 # 1- Mandatory Youtube Video Widget
 
 <img src="https://github.com/dgempiuc/JotForm/blob/master/Mandatory%20Youtube%20Video%20Widget/screenshoots/1-widget_settings.png" width="600" height="300">
-![](https://github.com/dgempiuc/JotForm/blob/master/Mandatory%20Youtube%20Video%20Widget/screenshoots/2-form.png)
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Mandatory%20Youtube%20Video%20Widget/screenshoots/2-form.png" width="600" height="300">
 
 # 2- Live Search
 
