@@ -29,6 +29,7 @@
 # 4- Alternative JotForm Android App
 
 ![1](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/1-login.png)
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/1-login.png" width="200" height="350">
 <br />
 ![2](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/2-home.png)
 <br />
