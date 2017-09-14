@@ -28,21 +28,12 @@
 
 # 4- Alternative JotForm Android App
 
-![1](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/1-login.png)
 <img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/1-login.png" width="200" height="350">
-<br />
-![2](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/2-home.png)
-<br />
-![3](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/3-create%20form.png)
-<br />
-![4](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/4-created%20form.png)
-<br />
-![5](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/5-view%20form.png)
-<br />
-![6](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/6-delete%20form.png)
-<br />
-![7](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/7-form%20submissions.png)
-<br />
-![8](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/8-specific%20submission.png)
-<br />
-![9](https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/9-edit%20submission.png)
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/2-home.png" width="200" height="350">
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/3-create%20form.png" width="200" height="350">
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/4-created%20form.png" width="200" height="350">
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/5-view%20form.png" width="200" height="350">
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/6-delete%20form.png" width="200" height="350">
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/7-form%20submissions.png" width="200" height="350">
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/8-specific%20submission.png" width="200" height="350">
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/9-edit%20submission.png" width="200" height="350">
