@@ -1,0 +1,200 @@
+Content Field is invalid error in Prestashop|5|1|https://www.jotform.com/answers/1246279-Content-Field-is-invalid-error-in-Prestashop#1
+
+Warning messages in wrong language|12|1|https://www.jotform.com/answers/1246279-Content-Field-is-invalid-error-in-Prestashop#1
+
+I can't log into my account|15|1|https://www.jotform.com/answers/1246279-Content-Field-is-invalid-error-in-Prestashop#1
+
+The Take Photo widget camera wont work.|10|1|https://www.jotform.com/answers/1246279-Content-Field-is-invalid-error-in-Prestashop#1
+
+Why when form URL is pasted in Facebook I get 'Maintenance request' prompt?|23|4|https://www.jotform.com/answers/1246279-Content-Field-is-invalid-error-in-Prestashop#1
+
+Quiz App: Allow sharing results to social networking sites|9|1|https://www.jotform.com/answers/1246279-Content-Field-is-invalid-error-in-Prestashop#1
+
+Take Photo Widget Watermark|20|3|https://www.jotform.com/answers/1246279-Content-Field-is-invalid-error-in-Prestashop#1
+
+Quiz App: Show results in same window?|13|1|https://www.jotform.com/answers/1246279-Content-Field-is-invalid-error-in-Prestashop#1
+
+Facebook Fit Forms Integration does not work|12|1|https://www.jotform.com/answers/1246279-Content-Field-is-invalid-error-in-Prestashop#1
+
+Unable ot change the credit card attached to my billing profile.|9|1|https://www.jotform.com/answers/1246279-Content-Field-is-invalid-error-in-Prestashop#1
+
+How to increase the line spacing in Text field?|11|1|https://www.jotform.com/answers/1246170-How-to-increase-the-line-spacing-in-Text-field#1
+
+How can I display the submissions on my website?|14|2|https://www.jotform.com/answers/1246170-How-to-increase-the-line-spacing-in-Text-field#1
+
+How to Sell Products and Donation option payment type on the same form|16|3|https://www.jotform.com/answers/1246170-How-to-increase-the-line-spacing-in-Text-field#1
+
+Decreasing line sizing between fields|11|1|https://www.jotform.com/answers/1246170-How-to-increase-the-line-spacing-in-Text-field#1
+
+In the new form layout, the file upload field height is quite large and cannot be adjusted.|41|7|https://www.jotform.com/answers/1246170-How-to-increase-the-line-spacing-in-Text-field#1
+
+I am not able to access Stripe discount codes|6|1|https://www.jotform.com/answers/1246170-How-to-increase-the-line-spacing-in-Text-field#1
+
+Title of form not showing when shared in facebook messenger|11|1|https://www.jotform.com/answers/1246170-How-to-increase-the-line-spacing-in-Text-field#1
+
+How to change E-Mail Validator button color|16|2|https://www.jotform.com/answers/1246170-How-to-increase-the-line-spacing-in-Text-field#1
+
+Form button is misaligned in mobile version|10|1|https://www.jotform.com/answers/1246170-How-to-increase-the-line-spacing-in-Text-field#1
+
+New Form Layout: Sub-options of products at Stripe show all as selected when previewed before submission|15|1|https://www.jotform.com/answers/1246170-How-to-increase-the-line-spacing-in-Text-field#1
+
+What is a sub-user account?|9|1|https://www.jotform.com/answers/1246104-What-is-a-sub-user-account#1
+
+Form is cleared after an error with payment occurs|23|2|https://www.jotform.com/answers/1246104-What-is-a-sub-user-account#1
+
+Authorize.net: PCI Errors|20|1|https://www.jotform.com/answers/1246104-What-is-a-sub-user-account#1
+
+Can I add three images to the Logo Heading?|6|1|https://www.jotform.com/answers/1246104-What-is-a-sub-user-account#1
+
+Problem with form editor|44|3|https://www.jotform.com/answers/1246104-What-is-a-sub-user-account#1
+
+No Subject|6|1|https://www.jotform.com/answers/1246104-What-is-a-sub-user-account#1
+
+Technical issue|13|1|https://www.jotform.com/answers/1246104-What-is-a-sub-user-account#1
+
+How do I display submissions on my form?|27|3|https://www.jotform.com/answers/1246104-What-is-a-sub-user-account#1
+
+Unable to edit form|22|1|https://www.jotform.com/answers/1246104-What-is-a-sub-user-account#1
+
+Take Photo/File Upload not working on iPhone|6|1|https://www.jotform.com/answers/1246104-What-is-a-sub-user-account#1
+
+V4 Form builder: Unable to edit the form|34|2|https://www.jotform.com/answers/1245886-V4-Form-builder-Unable-to-edit-the-form#2
+
+Not able to edit the multiple pages form in the Form Builder|16|2|https://www.jotform.com/answers/1245886-V4-Form-builder-Unable-to-edit-the-form#2
+
+Not able to edit form using the Form Builder|28|2|https://www.jotform.com/answers/1245886-V4-Form-builder-Unable-to-edit-the-form#2
+
+'Oops! something went wrong' error message while editing the form|69|7|https://www.jotform.com/answers/1245886-V4-Form-builder-Unable-to-edit-the-form#2
+
+Have a button for only PayPal|31|5|https://www.jotform.com/answers/1245886-V4-Form-builder-Unable-to-edit-the-form#2
+
+Claiming School Discount|10|1|https://www.jotform.com/answers/1245886-V4-Form-builder-Unable-to-edit-the-form#2
+
+How can I see the total number of people registered?|11|1|https://www.jotform.com/answers/1245886-V4-Form-builder-Unable-to-edit-the-form#2
+
+Upload image with "Arbitrary Links" option not working in "File Uploader by Uploadcare" widget.|20|3|https://www.jotform.com/answers/1245886-V4-Form-builder-Unable-to-edit-the-form#2
+
+how to delete account of JofForm|10|1|https://www.jotform.com/answers/1245886-V4-Form-builder-Unable-to-edit-the-form#2
+
+Not getting emails|7|1|https://www.jotform.com/answers/1245886-V4-Form-builder-Unable-to-edit-the-form#2
+
+Progress Bar Not Updating to Reflect Conditionally Un-required Fields|20|1|https://www.jotform.com/answers/1246022-Progress-Bar-Not-Updating-to-Reflect-Conditionally-Un-required-Fields#1
+
+How to add label to form element when using source code|50|5|https://www.jotform.com/answers/1246022-Progress-Bar-Not-Updating-to-Reflect-Conditionally-Un-required-Fields#1
+
+Not able to make any changes on one of my forms|53|7|https://www.jotform.com/answers/1246022-Progress-Bar-Not-Updating-to-Reflect-Conditionally-Un-required-Fields#1
+
+How can my clients save their form and finish it later?|7|1|https://www.jotform.com/answers/1246022-Progress-Bar-Not-Updating-to-Reflect-Conditionally-Un-required-Fields#1
+
+I haven't used this for over 4 years and want to start using|8|1|https://www.jotform.com/answers/1246022-Progress-Bar-Not-Updating-to-Reflect-Conditionally-Un-required-Fields#1
+
+Can you block an IP address?|10|1|https://www.jotform.com/answers/1246022-Progress-Bar-Not-Updating-to-Reflect-Conditionally-Un-required-Fields#1
+
+Info on cancelling and resubscribing|10|1|https://www.jotform.com/answers/1246022-Progress-Bar-Not-Updating-to-Reflect-Conditionally-Un-required-Fields#1
+
+PayPal sent me a warning email for IPN settings|13|1|https://www.jotform.com/answers/1246022-Progress-Bar-Not-Updating-to-Reflect-Conditionally-Un-required-Fields#1
+
+Can you download Jotform in Excel or any other documents?|26|4|https://www.jotform.com/answers/1246022-Progress-Bar-Not-Updating-to-Reflect-Conditionally-Un-required-Fields#1
+
+How can I upload photos that have been attached to a form|21|3|https://www.jotform.com/answers/1246022-Progress-Bar-Not-Updating-to-Reflect-Conditionally-Un-required-Fields#1
+
+Trouble with Incomplete Payments|25|4|https://www.jotform.com/answers/1245821-Trouble-with-Incomplete-Payments#4
+
+Do you have any reseller or affiliate programs?|12|1|https://www.jotform.com/answers/1245821-Trouble-with-Incomplete-Payments#4
+
+How do I increase the field height?|9|1|https://www.jotform.com/answers/1245821-Trouble-with-Incomplete-Payments#4
+
+How can I assign two values to an option in a multiple choice?|31|9|https://www.jotform.com/answers/1245821-Trouble-with-Incomplete-Payments#4
+
+How to decrypt my form?|13|2|https://www.jotform.com/answers/1245821-Trouble-with-Incomplete-Payments#4
+
+Lost my form when I updated to silver plan|11|1|https://www.jotform.com/answers/1245821-Trouble-with-Incomplete-Payments#4
+
+Account suspended|10|1|https://www.jotform.com/answers/1245821-Trouble-with-Incomplete-Payments#4
+
+Why conditional formatting is not working properly?|29|4|https://www.jotform.com/answers/1245821-Trouble-with-Incomplete-Payments#4
+
+Login failed - SUSPENDED|59|6|https://www.jotform.com/answers/1245821-Trouble-with-Incomplete-Payments#4
+
+We upgraded and now we have no jot form.|17|1|https://www.jotform.com/answers/1245821-Trouble-with-Incomplete-Payments#4
+
+I did not see where I can have the forms output sent to my email|15|2|https://www.jotform.com/answers/1245934-I-did-not-see-where-I-can-have-the-forms-output-sent-to-my-email#2
+
+Autoresponder not sending to email field|12|1|https://www.jotform.com/answers/1245934-I-did-not-see-where-I-can-have-the-forms-output-sent-to-my-email#2
+
+I need customers to send their logo|12|1|https://www.jotform.com/answers/1245934-I-did-not-see-where-I-can-have-the-forms-output-sent-to-my-email#2
+
+How do I hand over being the holder of my account?|18|3|https://www.jotform.com/answers/1245934-I-did-not-see-where-I-can-have-the-forms-output-sent-to-my-email#2
+
+Cannot log in|9|1|https://www.jotform.com/answers/1245934-I-did-not-see-where-I-can-have-the-forms-output-sent-to-my-email#2
+
+How can I make the submit file field smaller?|9|1|https://www.jotform.com/answers/1245934-I-did-not-see-where-I-can-have-the-forms-output-sent-to-my-email#2
+
+Setting form background with no picture repeat|13|1|https://www.jotform.com/answers/1245934-I-did-not-see-where-I-can-have-the-forms-output-sent-to-my-email#2
+
+Unable to edit form|18|1|https://www.jotform.com/answers/1245934-I-did-not-see-where-I-can-have-the-forms-output-sent-to-my-email#2
+
+Do you have reseller program ?|9|1|https://www.jotform.com/answers/1245934-I-did-not-see-where-I-can-have-the-forms-output-sent-to-my-email#2
+
+Are there other, similar apps to this one? If I can't make section headings I'm not sure if this will work. |72|21|https://www.jotform.com/answers/1245934-I-did-not-see-where-I-can-have-the-forms-output-sent-to-my-email#2
+
+Spreadsheet to Form Widget: Not working with embed code on non-ssl web pages|16|1|https://www.jotform.com/answers/1245850-Spreadsheet-to-Form-Widget-Not-working-with-embed-code-on-non-ssl-web-pages#1
+
+Spreadsheet to Form Widget: Not working with embed code on non-ssl web pages|5|1|https://www.jotform.com/answers/1245850-Spreadsheet-to-Form-Widget-Not-working-with-embed-code-on-non-ssl-web-pages#1
+
+Just wanted to send a quick note of thanks.|8|1|https://www.jotform.com/answers/1245850-Spreadsheet-to-Form-Widget-Not-working-with-embed-code-on-non-ssl-web-pages#1
+
+How can I create a working registration form that works?|9|1|https://www.jotform.com/answers/1245850-Spreadsheet-to-Form-Widget-Not-working-with-embed-code-on-non-ssl-web-pages#1
+
+Cannot remove Jotform Branding|11|1|https://www.jotform.com/answers/1245850-Spreadsheet-to-Form-Widget-Not-working-with-embed-code-on-non-ssl-web-pages#1
+
+Google Spreadsheet: Is it possible to update the spreadsheet at the same time the user fills the form?|48|3|https://www.jotform.com/answers/1245850-Spreadsheet-to-Form-Widget-Not-working-with-embed-code-on-non-ssl-web-pages#1
+
+Trello integration not working properly with EU accounts|10|1|https://www.jotform.com/answers/1245850-Spreadsheet-to-Form-Widget-Not-working-with-embed-code-on-non-ssl-web-pages#1
+
+You do not tell us how to get the form onto an email to be sent out to the group for their registration for a travel tour.|7|1|https://www.jotform.com/answers/1245850-Spreadsheet-to-Form-Widget-Not-working-with-embed-code-on-non-ssl-web-pages#1
+
+How can I get a user to sign up in wordpress using the form|17|1|https://www.jotform.com/answers/1245850-Spreadsheet-to-Form-Widget-Not-working-with-embed-code-on-non-ssl-web-pages#1
+
+How to link to another site?|24|7|https://www.jotform.com/answers/1245850-Spreadsheet-to-Form-Widget-Not-working-with-embed-code-on-non-ssl-web-pages#1
+
+Looking for a draw on a body image widget|12|1|https://www.jotform.com/answers/1245823-Looking-for-a-draw-on-a-body-image-widget#1
+
+Wordpress widget adding extra height to iframe|35|5|https://www.jotform.com/answers/1245823-Looking-for-a-draw-on-a-body-image-widget#1
+
+Why are there pending payments for my form?|16|1|https://www.jotform.com/answers/1245823-Looking-for-a-draw-on-a-body-image-widget#1
+
+Square TIP field to form?|13|1|https://www.jotform.com/answers/1245823-Looking-for-a-draw-on-a-body-image-widget#1
+
+Collecting users' facebook public information|24|1|https://www.jotform.com/answers/1245823-Looking-for-a-draw-on-a-body-image-widget#1
+
+How to create an signing approval workflow?|16|1|https://www.jotform.com/answers/1245823-Looking-for-a-draw-on-a-body-image-widget#1
+
+Nonprofit status|17|1|https://www.jotform.com/answers/1245823-Looking-for-a-draw-on-a-body-image-widget#1
+
+Where to find a voting form template with voting results?|32|1|https://www.jotform.com/answers/1245823-Looking-for-a-draw-on-a-body-image-widget#1
+
+Is there anyway to do a partial info capture when they are done with the first page?|13|3|https://www.jotform.com/answers/1245823-Looking-for-a-draw-on-a-body-image-widget#1
+
+How to enable form Headers|14|1|https://www.jotform.com/answers/1245823-Looking-for-a-draw-on-a-body-image-widget#1
+
+Is there a way to send an auto-response email ONLY after a form edit is completed?|14|1|https://www.jotform.com/answers/1245749-Is-there-a-way-to-send-an-auto-response-email-ONLY-after-a-form-edit-is-completed#1
+
+How to make a signature field read only?|11|2|https://www.jotform.com/answers/1245749-Is-there-a-way-to-send-an-auto-response-email-ONLY-after-a-form-edit-is-completed#1
+
+Exporting to Excel|14|1|https://www.jotform.com/answers/1245749-Is-there-a-way-to-send-an-auto-response-email-ONLY-after-a-form-edit-is-completed#1
+
+How do I create a form and use on my website?|12|1|https://www.jotform.com/answers/1245749-Is-there-a-way-to-send-an-auto-response-email-ONLY-after-a-form-edit-is-completed#1
+
+Field labels not showing up in preview or the published form|15|4|https://www.jotform.com/answers/1245749-Is-there-a-way-to-send-an-auto-response-email-ONLY-after-a-form-edit-is-completed#1
+
+PCI :: Error on transaction Trial Occurrences must be less than Total Occurrences.|42|10|https://www.jotform.com/answers/1245749-Is-there-a-way-to-send-an-auto-response-email-ONLY-after-a-form-edit-is-completed#1
+
+BluePay: How to ask for billing address?|15|1|https://www.jotform.com/answers/1245749-Is-there-a-way-to-send-an-auto-response-email-ONLY-after-a-form-edit-is-completed#1
+
+How to create integrated google spreadsheet in a sub-directory?|17|2|https://www.jotform.com/answers/1245749-Is-there-a-way-to-send-an-auto-response-email-ONLY-after-a-form-edit-is-completed#1
+
+Add PDF attachment of submissions in email notification|12|2|https://www.jotform.com/answers/1245749-Is-there-a-way-to-send-an-auto-response-email-ONLY-after-a-form-edit-is-completed#1
+
+Submissions: Submission attachment is showing "404 not found" when accessed|14|1|https://www.jotform.com/answers/1245749-Is-there-a-way-to-send-an-auto-response-email-ONLY-after-a-form-edit-is-completed#1
+

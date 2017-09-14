@@ -1,0 +1,36 @@
+<!-- created by Deniz Gurer, 2017 all rights reserved for JotForm -->
+<!DOCTYPE html>
+<html>
+    <head>
+          <!-- JotForm Custom Widget API can be loaded with the following script include -->
+          <script type="text/javascript" src="//js.jotform.com/JotFormCustomWidget.min.js"></script>
+          <!-- css for warning message -->
+          <style>
+            #warning, #info {
+              font-size : 14px;
+            }
+          </style>
+          <script type="text/javascript" src="myScript.js"></script>
+    </head>
+    <body>
+
+        <!-- view layer begins here -->
+        <!-- in this widget, there are 2 question; video url and title of video -->
+        <div id="main">
+            <!-- show "title of video" -->
+            <p id="label"></p>
+            <!-- youtube player -->
+            <div id="player"></div>
+            <!-- information about video such as "watched time","total time" and "compeleted percent" -->
+            <p id="info" align="center">
+              <span id="time"></span>
+              <span id="duration"></span>
+              <span id="percent"></span>
+            </p>
+            <!-- this warning will be shown when the video was stopped -->
+            <p id="warning" style="color:#e60000" align="center">The form will not be able to be submitted unless the video is completely watched!</p>
+        </div>
+        <!-- view layer ends here -->
+        
+    </body>
+</html>
