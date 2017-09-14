@@ -38,3 +38,4 @@ Visit my portfolio : http://dev.cs.hacettepe.edu.tr/~b21328045/jotform/portfolio
 <img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/7-form%20submissions.png" width="200" height="350">
 <img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/8-specific%20submission.png" width="200" height="350">
 <img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/9-edit%20submission.png" width="200" height="350">
+<img src="https://github.com/dgempiuc/JotForm/blob/master/Alternative%20JotForm%20Android%20App/screenshoots/10-settings.png" width="200" height="350">
